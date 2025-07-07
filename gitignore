@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data files
+data/raw/
+data/processed/
+
+# Output
+outputs/
+models/
+
+# Environment
+.env
+.venv/
